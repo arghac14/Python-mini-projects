@@ -1,2 +1,2 @@
 # Python-Scripts
-Collection of useful Python scripts and mini projects
+Collection of useful Python scripts and mini projects.
